@@ -1,7 +1,7 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: Artem Strelnikov
+* Сайт (https://artem-strelnikov.github.io/sedona1/)
 
 ---
 
